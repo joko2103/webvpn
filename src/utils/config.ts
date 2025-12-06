@@ -1,5 +1,5 @@
 export const MAIN_DOMAINS = [
-  "antiquewhite.qzz.io", "bisque.qzz.io", "cornsilk.qzz.io", "floralwhite.qzz.io", 
+  "zart6rw16.qzz.io", "antiquewhite.qzz.io", "bisque.qzz.io", "cornsilk.qzz.io", "floralwhite.qzz.io", 
   "fuchsia.qzz.io", "ivory.qzz.io", "midnightblue.qzz.io", 
   "sandybrown.qzz.io", "seashell.qzz.io", "thistle.qzz.io", "blueivy.qzz.io", 
   "cranberry.qzz.io", "gainsboro.qzz.io", "gulfblue.qzz.io", "heavenlyblue.qzz.io", 
@@ -12,5 +12,5 @@ export const CONFIG = {
   proxyListUrl: "https://raw.githubusercontent.com/bexcdx/proxyip/refs/heads/main/proxyip.json",
   apiCheckUrl: "https://proxyip-check.bexcodex.xyz/",
   pathTemplate: "/{ip}-{port}",
-  webName: "BexCodex"
+  webName: "Kluwutvpn"
 };
